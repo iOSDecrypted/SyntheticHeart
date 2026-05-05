@@ -1,7 +1,12 @@
-# YTABConfig
+# SytheticHeart
 
-Configures A/B settings in iOS YouTube app.
+Configures A/B settings in iOS Gemini app.
 
-## Supported YouTube versions
+## Source Code ETA
 
-Confirmed version 16.29.4 and newer. Lower are either untested or unsupported.
+Source code will be uploaded in May of 2026.
+
+## Credits:
+
+[iOSDecrypted Team](https://t.me/iosdecrypted)
+[PoomSmart](https://github.com/PoomSmart)
